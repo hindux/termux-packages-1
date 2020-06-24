@@ -22,6 +22,7 @@ termux_step_make() {
 	go get -d -v
 	go build
 	
+	
 }
 
 termux_step_make_install() {
